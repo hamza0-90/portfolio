@@ -625,14 +625,14 @@ export const educationData: Education[] = [
     ]
   },
   {
-    degree: "Intermediate (Pre-Engineering / ICS)",
-    institution: "Degree College, Faisalabad",
+    degree: "Intermediate (FSc Pre-Engineering)",
+    institution: "Govt. Degree College, Faisalabad",
     location: "Faisalabad, Pakistan",
-    period: "2018 – 2021",
+    period: "2018 – 2020",
     status: "Completed",
     highlights: [
-      "Strong foundational coursework in Mathematics, Computer Science, and Physics.",
-      "Developed early interest in software engineering and algorithmic programming."
+      "Strong foundational coursework in Advanced Mathematics, Physics, and Chemistry.",
+      "Developed analytical problem-solving, logical reasoning, and engineering fundamentals."
     ]
   },
   {
